@@ -3,7 +3,7 @@ for the class
 =Homework list  
 ==Exercise_01:[print your name](temp.py)
 ***
-==Exercise_02:[move my name](http://note.youdao.com/noteshare?id=0ed58c300db5637a73b56ea108ef5eae)[code](untitled1.py）
+==Exercise_02:[move my name](http://note.youdao.com/noteshare?id=0ed58c300db5637a73b56ea108ef5eae)[code](exercise_02.py）
 ***
 ==Exercise_03:
 ***
