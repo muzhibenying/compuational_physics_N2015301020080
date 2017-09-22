@@ -5,6 +5,8 @@ for the class
 ***
 ==Exercise_02:[move my name](http://note.youdao.com/noteshare?id=0ed58c300db5637a73b56ea108ef5eae)
 ***
+[源代码](exercise_02.py)
+***
 ==Exercise_03:
 ***
 ==Exercise_04:
