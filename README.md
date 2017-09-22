@@ -3,7 +3,7 @@ for the class
 =Homework list  
 ==Exercise_01:[print your name](temp.py)
 ***
-==Exercise_02:
+==Exercise_02:[move my name](file:///Users/xiaoying/exercise02.mov)
 ***
 ==Exercise_03:
 ***
