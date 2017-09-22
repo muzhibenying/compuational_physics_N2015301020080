@@ -1,9 +1,9 @@
 # compuational_physics_N2015301020080
 for the class  
-=Homework list  
-==Exercise_01:[print your name](temp.py)
+=Homework list  
+- [x]Exercise_01:[print your name](temp.py)
 ***
-==Exercise_02:[move my name](http://note.youdao.com/noteshare?id=0ed58c300db5637a73b56ea108ef5eae)
+==Exercise_02:[move my name](http://note.youdao.com/noteshare?id=0ed58c300db5637a73b56ea108ef5eae）／
 [code](http://note.youdao.com/noteshare?id=eeb4eb086fbdba119a344572b9ccf36d)
 ***
 ==Exercise_03:
