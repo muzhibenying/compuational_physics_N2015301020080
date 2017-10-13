@@ -8,7 +8,7 @@ for the class
 ***
 - [x] Exercise_03:[population growth](http://note.youdao.com/noteshare?id=d6d521f3bb41180dc43ffdda9435cf85)/[code](http://note.youdao.com/noteshare?id=6f5dfe07e7a1d887a3697b72e57227ca)
 ***
-- [x] Exercise_04:[chapter 2.9](http://note.youdao.com/noteshare?id=48fcf2fa5f35048e8cb6249c1613e5cb)/[code](http://note.youdao.com/noteshare?id=5321a3bfdb599ddcc31c9ff96457f1cd)
+- [x] Exercise_04:[chapter 2.9](http://note.youdao.com/noteshare?id=48fcf2fa5f35048e8cb6249c1613e5cb)/[code](http://note.youdao.com/noteshare?id=5321a3bfdb599ddcc31c9ff96457f1cd)/[pygame code](http://note.youdao.com/noteshare?id=f2759f59e138aa31333e8de8fefc7a9b)
 ***
 - [ ] Exercise_05:
 ***
