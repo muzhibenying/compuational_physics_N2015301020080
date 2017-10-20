@@ -10,7 +10,7 @@ for the class
 ***
 - [x] Exercise_04:[chapter 2.9](http://note.youdao.com/noteshare?id=48fcf2fa5f35048e8cb6249c1613e5cb)/[code](http://note.youdao.com/noteshare?id=5321a3bfdb599ddcc31c9ff96457f1cd)/[pygame code](http://note.youdao.com/noteshare?id=f2759f59e138aa31333e8de8fefc7a9b)
 ***
-- [ ] Exercise_05:
+- [x] Exercise_05:[chapter 2.20](http://note.youdao.com/noteshare?id=0ee81e3ec8de999c5331708945458317)/[code](http://note.youdao.com/noteshare?id=43e118878425b7f9042748a38cef4d35)
 ***
 - [ ] Exercise_06:
 ***
