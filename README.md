@@ -12,7 +12,7 @@ for the class
 ***
 - [x] Exercise_05:[chapter 2.20](http://note.youdao.com/noteshare?id=0ee81e3ec8de999c5331708945458317)/[code](http://note.youdao.com/noteshare?id=43e118878425b7f9042748a38cef4d35)
 ***
-- [ ] Exercise_06:
+- [x] Exercise_06:[chpter 3.12](http://note.youdao.com/noteshare?id=341541c2fe4fb1ca3f01d0c0ba15aed4)/[code](http://note.youdao.com/noteshare?id=5a37903e27dc8669f2719947040d466a)
 ***
 - [ ] Exercise_07:
 ***
