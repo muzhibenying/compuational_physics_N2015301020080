@@ -12,9 +12,9 @@ for the class
 ***
 - [x] Exercise_05:[chapter 2.20](http://note.youdao.com/noteshare?id=0ee81e3ec8de999c5331708945458317)/[code](http://note.youdao.com/noteshare?id=43e118878425b7f9042748a38cef4d35)
 ***
-- [x] Exercise_06:[chpter 3.12](http://note.youdao.com/noteshare?id=341541c2fe4fb1ca3f01d0c0ba15aed4)/[code](http://note.youdao.com/noteshare?id=5a37903e27dc8669f2719947040d466a)
+- [x] Exercise_06:[chapter 3.12](http://note.youdao.com/noteshare?id=341541c2fe4fb1ca3f01d0c0ba15aed4)/[code](http://note.youdao.com/noteshare?id=5a37903e27dc8669f2719947040d466a)
 ***
-- [ ] Exercise_07:
+- [x] Exercise_07:[chapter 3.27](http://note.youdao.com/noteshare?id=75d95c753100f68ed8905b1e47ef1aa5)/[code](http://note.youdao.com/noteshare?id=a324691e6913182a2f1f41b4ea70aafb)
 ***
 - [ ] Exercise_08:
 ***
