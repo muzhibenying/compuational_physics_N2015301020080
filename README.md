@@ -16,7 +16,7 @@ for the class
 ***
 - [x] Exercise_07:[chapter 3.27](http://note.youdao.com/noteshare?id=75d95c753100f68ed8905b1e47ef1aa5)/[code](http://note.youdao.com/noteshare?id=a324691e6913182a2f1f41b4ea70aafb)
 ***
-- [ ] Exercise_08:
+- [x] Exercise_08:[chapter 3.31](http://note.youdao.com/noteshare?id=bd2d4b9bf395a16886f0d8d30c3b7221)/[code](http://note.youdao.com/noteshare?id=52fc4652d768bdaf4b0e4c309fe75168)
 ***
 - [ ] Exercise_09:
 ***
