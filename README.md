@@ -18,7 +18,7 @@ for the class
 ***
 - [x] Exercise_08:[chapter 3.31](http://note.youdao.com/noteshare?id=bd2d4b9bf395a16886f0d8d30c3b7221)/[code](http://note.youdao.com/noteshare?id=52fc4652d768bdaf4b0e4c309fe75168)
 ***
-- [ ] Exercise_09:
+- [x] Exercise_09:[期中作业](http://note.youdao.com/noteshare?id=69ae53d5d40ffd2539058db098bb7fc1)/[code](http://note.youdao.com/noteshare?id=28a8653df08d429bd94c9887df2b4802)
 ***
 - [ ] Exercise_10:
 ***
