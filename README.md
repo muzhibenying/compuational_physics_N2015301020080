@@ -20,7 +20,7 @@ for the class
 ***
 - [x] Exercise_期中:[期中作业](http://note.youdao.com/noteshare?id=69ae53d5d40ffd2539058db098bb7fc1)/[code](http://note.youdao.com/noteshare?id=28a8653df08d429bd94c9887df2b4802)
 ***
-- [ ] Exercise_09:[chapter4.16](http://note.youdao.com/noteshare?id=07ce6653bfde3a57e932b8aeb649818e)/[code](http://note.youdao.com/noteshare?id=cd1bc6d429deca3cfc953b0c6160a9bb)
+- [x] Exercise_09:[chapter4.16](http://note.youdao.com/noteshare?id=07ce6653bfde3a57e932b8aeb649818e)/[code](http://note.youdao.com/noteshare?id=cd1bc6d429deca3cfc953b0c6160a9bb)
 ***
 - [ ] Exercise_10:
 ***
