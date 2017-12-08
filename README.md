@@ -22,7 +22,7 @@ for the class
 ***
 - [x] Exercise_09:[chapter4.16](http://note.youdao.com/noteshare?id=07ce6653bfde3a57e932b8aeb649818e)/[code](http://note.youdao.com/noteshare?id=cd1bc6d429deca3cfc953b0c6160a9bb)
 ***
-- [ ] Exercise_10:
+- [x] Exercise_10:[chapter4.20](http://note.youdao.com/noteshare?id=22634820574b5406c067b3651f2ec4ec)/[code](http://note.youdao.com/noteshare?id=b20704228cc7154a58fe108c7932ad4e)
 ***
 - [ ] Exercise_11:
 ***
