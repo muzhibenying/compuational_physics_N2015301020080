@@ -24,7 +24,7 @@ for the class
 ***
 - [x] Exercise_10:[chapter4.20](http://note.youdao.com/noteshare?id=22634820574b5406c067b3651f2ec4ec)/[code](http://note.youdao.com/noteshare?id=b20704228cc7154a58fe108c7932ad4e)
 ***
-- [ ] Exercise_11:
+- [x] Exercise_11:[chapter6.6](http://note.youdao.com/noteshare?id=0f8800a39815547cf84253e3ba5f42f3)/[code](http://note.youdao.com/noteshare?id=50d31929677e720bb1e2e7c209919933)
 ***
 - [ ] Exercise_12:
 ***
