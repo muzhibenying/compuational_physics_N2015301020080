@@ -26,7 +26,7 @@ for the class
 ***
 - [x] Exercise_11:[chapter6.6](http://note.youdao.com/noteshare?id=0f8800a39815547cf84253e3ba5f42f3)/[code](http://note.youdao.com/noteshare?id=50d31929677e720bb1e2e7c209919933)
 ***
-- [x] 期末作业:[http://note.youdao.com/noteshare?id=c2bb366d68eaff62dd2515a07f1435b9]/code[http://note.youdao.com/noteshare?id=42aa61492273381cf691721dde2fea6c]
+- [x] [期末作业]:(http://note.youdao.com/noteshare?id=c2bb366d68eaff62dd2515a07f1435b9)/[code](http://note.youdao.com/noteshare?id=42aa61492273381cf691721dde2fea6c)
 ***
 - [ ] Exercise_13:
 ***
